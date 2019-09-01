@@ -3,11 +3,20 @@
 import java.io.Serializable;
 
 import br.edu.utfpr.dv.siacoes.util.DateUtils;
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.EqualsAndHashCode;
+import lombok.NoArgsConstructor;
 
+@Data
+@NoArgsConstructor
+@AllArgsConstructor
+@EqualsAndHashCode(onlyExplicitlyIncluded = true)
 public class ActivitySubmissionDetailReport implements Serializable {
 	
 	private static final long serialVersionUID = 1L;
-	
+
+	@EqualsAndHashCode.Include
 	private String activity;
 	private int group;
 	private String unit;
@@ -16,65 +25,5 @@ public class ActivitySubmissionDetailReport implements Serializable {
 	private double total;
 	private int semester;
 	private int year;
-	
-	public ActivitySubmissionDetailReport(){
-		this.setActivity("");
-		this.setGroup(0);
-		this.setUnit("");
-		this.setScore(0);
-		this.setAmount(0);
-		this.setTotal(0);
-		this.setSemester(DateUtils.getSemester());
-		this.setYear(DateUtils.getYear());
-	}
-	
-	public String getActivity() {
-		return activity;
-	}
-	public void setActivity(String activity) {
-		this.activity = activity;
-	}
-	public int getGroup() {
-		return group;
-	}
-	public void setGroup(int group) {
-		this.group = group;
-	}
-	public String getUnit() {
-		return unit;
-	}
-	public void setUnit(String unit) {
-		this.unit = unit;
-	}
-	public double getScore() {
-		return score;
-	}
-	public void setScore(double score) {
-		this.score = score;
-	}
-	public double getAmount() {
-		return amount;
-	}
-	public void setAmount(double amount) {
-		this.amount = amount;
-	}
-	public double getTotal() {
-		return total;
-	}
-	public void setTotal(double total) {
-		this.total = total;
-	}
-	public int getSemester() {
-		return semester;
-	}
-	public void setSemester(int semester) {
-		this.semester = semester;
-	}
-	public int getYear() {
-		return year;
-	}
-	public void setYear(int year) {
-		this.year = year;
-	}
 
 }

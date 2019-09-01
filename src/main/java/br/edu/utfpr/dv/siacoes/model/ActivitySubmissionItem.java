@@ -3,46 +3,23 @@
 import java.io.Serializable;
 
 import br.edu.utfpr.dv.siacoes.model.ActivitySubmission.ActivityFeedback;
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.EqualsAndHashCode;
+import lombok.NoArgsConstructor;
 
+@Data
+@NoArgsConstructor
+@AllArgsConstructor
+@EqualsAndHashCode(onlyExplicitlyIncluded = true)
 public class ActivitySubmissionItem implements Serializable {
 	
 	private static final long serialVersionUID = 1L;
-	
+
+	@EqualsAndHashCode.Include
 	private int idActivitySubmissionItem;
 	private Activity activity;
 	private ActivitySubmission submission;
 	private ActivityFeedback feedback;
-	
-	public ActivitySubmissionItem(){
-		this.setIdActivitySubmissionItem(0);
-		this.setActivity(new Activity());
-		this.setSubmission(new ActivitySubmission());
-		this.setFeedback(ActivityFeedback.NONE);
-	}
-	
-	public int getIdActivitySubmissionItem() {
-		return idActivitySubmissionItem;
-	}
-	public void setIdActivitySubmissionItem(int idActivitySubmissionItem) {
-		this.idActivitySubmissionItem = idActivitySubmissionItem;
-	}
-	public Activity getActivity() {
-		return activity;
-	}
-	public void setActivity(Activity activity) {
-		this.activity = activity;
-	}
-	public ActivitySubmission getSubmission() {
-		return submission;
-	}
-	public void setSubmission(ActivitySubmission submission) {
-		this.submission = submission;
-	}
-	public ActivityFeedback getFeedback() {
-		return feedback;
-	}
-	public void setFeedback(ActivityFeedback feedback) {
-		this.feedback = feedback;
-	}
-	
+
 }
