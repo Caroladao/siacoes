@@ -1,0 +1,775 @@
+
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\hooks
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\info
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\logs
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\logs\refs
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\logs\refs\heads
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\logs\refs\remotes
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\logs\refs\remotes\origin
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\02
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\03
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\04
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\05
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\06
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\07
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\0a
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\0b
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\0e
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\0f
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\13
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\14
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\17
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\18
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\1a
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\1b
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\1c
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\1e
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\20
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\21
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\24
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\28
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\29
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\2a
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\2c
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\2e
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\32
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\34
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\35
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\38
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\39
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\3c
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\3d
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\42
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\43
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\46
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\48
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\4b
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\4c
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\4e
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\51
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\52
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\54
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\55
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\56
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\59
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\5a
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\5d
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\6a
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\6b
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\6c
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\6e
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\73
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\75
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\79
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\7e
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\80
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\82
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\84
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\85
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\87
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\89
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\8c
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\8d
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\8e
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\8f
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\92
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\93
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\95
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\96
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\98
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\99
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\9a
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\9b
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\9e
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\a1
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\a2
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\a4
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\a5
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\a6
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\a9
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\ac
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\ad
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\ae
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\af
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\b0
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\b2
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\b3
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\b4
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\b6
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\b7
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\b9
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\bb
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\bc
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\bd
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\c4
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\c7
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\c8
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\ca
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\cb
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\cc
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\cd
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\d0
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\d3
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\d4
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\d5
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\d8
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\dd
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\de
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\e0
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\e2
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\e3
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\e5
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\e6
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\eb
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\ec
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\f0
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\f1
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\f4
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\f5
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\f6
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\fa
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\fc
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\info
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\objects\pack
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\refs
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\refs\heads
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\refs\remotes
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\refs\remotes\origin
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.git\refs\tags
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.idea
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.idea\artifacts
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.idea\libraries
+
+Path = C:\Users\roger\IdeaProjects\siacoes\.settings
+
+Path = C:\Users\roger\IdeaProjects\siacoes\figuras
+
+Path = C:\Users\roger\IdeaProjects\siacoes\src
+
+Path = C:\Users\roger\IdeaProjects\siacoes\src\main
+
+Path = C:\Users\roger\IdeaProjects\siacoes\src\main\java
+
+Path = C:\Users\roger\IdeaProjects\siacoes\src\main\java\br
+
+Path = C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu
+
+Path = C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr
+
+Path = C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv
+
+Path = C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\Session.java = 293 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\SiacoesUI.java = 235 linhas
+
+Path = C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\bo
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\bo\ActivityBO.java = 133 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\bo\ActivityGroupBO.java = 103 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\bo\ActivitySubmissionBO.java = 649 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\bo\ActivityUnitBO.java = 59 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\bo\AttendanceBO.java = 239 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\bo\BugReportBO.java = 96 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\bo\CampusBO.java = 64 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\bo\CertificateBO.java = 981 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\bo\CityBO.java = 68 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\bo\CompanyBO.java = 80 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\bo\CountryBO.java = 53 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\bo\DeadlineBO.java = 92 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\bo\DepartmentBO.java = 67 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\bo\DocumentBO.java = 139 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\bo\EmailConfigBO.java = 36 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\bo\EmailMessageBO.java = 164 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\bo\EvaluationItemBO.java = 148 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\bo\FinalDocumentBO.java = 387 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\bo\FinalSubmissionBO.java = 119 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\bo\InternshipBO.java = 373 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\bo\InternshipEvaluationItemBO.java = 132 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\bo\InternshipFinalDocumentBO.java = 148 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\bo\InternshipJuryAppraiserBO.java = 97 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\bo\InternshipJuryAppraiserScoreBO.java = 76 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\bo\InternshipJuryBO.java = 695 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\bo\InternshipJuryStudentBO.java = 61 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\bo\InternshipReportBO.java = 100 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\bo\JuryAppraiserBO.java = 97 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\bo\JuryAppraiserRequestBO.java = 74 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\bo\JuryAppraiserScoreBO.java = 76 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\bo\JuryBO.java = 1067 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\bo\JuryRequestBO.java = 449 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\bo\JuryStudentBO.java = 81 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\bo\MessageBO.java = 122 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\bo\ProjectBO.java = 350 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\bo\ProposalAppraiserBO.java = 208 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\bo\ProposalBO.java = 482 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\bo\SemesterBO.java = 80 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\bo\SigacConfigBO.java = 53 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\bo\SigesConfigBO.java = 73 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\bo\SigetConfigBO.java = 94 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\bo\StateBO.java = 71 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\bo\SupervisorChangeBO.java = 120 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\bo\SystemBO.java = 132 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\bo\ThemeSuggestionBO.java = 93 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\bo\ThesisBO.java = 328 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\bo\TutoredBO.java = 230 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\bo\UserBO.java = 586 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\bo\UserDepartmentBO.java = 100 linhas
+
+Path = C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\components
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\components\ByteSizeField.java = 117 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\components\CalendarEvent.java = 42 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\components\CampusComboBox.java = 83 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\components\CityComboBox.java = 84 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\components\CompanyComboBox.java = 69 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\components\CompanySupervisorComboBox.java = 84 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\components\CountryComboBox.java = 69 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\components\DepartmentComboBox.java = 88 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\components\FileUploader.java = 307 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\components\FileUploaderListener.java = 7 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\components\MenuEntry.java = 75 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\components\MenuEntryClickListener.java = 7 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\components\MonthComboBox.java = 90 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\components\Notification.java = 35 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\components\SemesterComboBox.java = 54 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\components\SideMenu.java = 1250 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\components\StageComboBox.java = 60 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\components\StateComboBox.java = 84 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\components\StudentComboBox.java = 89 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\components\SupervisorComboBox.java = 119 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\components\UserComboBox.java = 69 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\components\YearField.java = 28 linhas
+
+Path = C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\dao
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\dao\ActivityDAO.java = 371 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\dao\ActivityGroupDAO.java = 280 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\dao\ActivitySubmissionDAO.java = 591 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\dao\ActivityUnitDAO.java = 131 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\dao\AttendanceDAO.java = 366 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\dao\BugReportDAO.java = 151 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\dao\CampusDAO.java = 170 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\dao\CertificateDAO.java = 129 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\dao\CityDAO.java = 168 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\dao\CompanyDAO.java = 193 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\dao\ConnectionDAO.java = 92 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\dao\CountryDAO.java = 127 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\dao\DeadlineDAO.java = 197 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\dao\DepartmentDAO.java = 180 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\dao\DocumentDAO.java = 318 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\dao\EmailConfigDAO.java = 103 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\dao\EmailMessageDAO.java = 137 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\dao\EvaluationItemDAO.java = 384 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\dao\FinalDocumentDAO.java = 672 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\dao\FinalSubmissionDAO.java = 226 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\dao\InternshipDAO.java = 752 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\dao\InternshipEvaluationItemDAO.java = 349 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\dao\InternshipFinalDocumentDAO.java = 340 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\dao\InternshipJuryAppraiserDAO.java = 341 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\dao\InternshipJuryAppraiserScoreDAO.java = 166 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\dao\InternshipJuryDAO.java = 459 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\dao\InternshipJuryStudentDAO.java = 236 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\dao\InternshipReportDAO.java = 207 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\dao\JuryAppraiserDAO.java = 358 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\dao\JuryAppraiserRequestDAO.java = 219 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\dao\JuryAppraiserScoreDAO.java = 178 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\dao\JuryDAO.java = 665 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\dao\JuryRequestDAO.java = 367 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\dao\JuryStudentDAO.java = 257 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\dao\MessageDAO.java = 245 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\dao\ProjectDAO.java = 540 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\dao\ProposalAppraiserDAO.java = 265 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\dao\ProposalDAO.java = 871 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\dao\SemesterDAO.java = 194 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\dao\SigacConfigDAO.java = 82 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\dao\SigesConfigDAO.java = 95 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\dao\SigetConfigDAO.java = 122 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\dao\StateDAO.java = 166 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\dao\SupervisorChangeDAO.java = 414 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\dao\SystemDAO.java = 178 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\dao\ThemeSuggestionDAO.java = 196 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\dao\ThesisDAO.java = 575 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\dao\TutoredDAO.java = 79 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\dao\UserDAO.java = 1044 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\dao\UserDepartmentDAO.java = 215 linhas
+
+Path = C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\images
+
+Path = C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\ldap
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\ldap\LdapConfig.java = 116 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\ldap\LdapUtils.java = 545 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\ldap\TrustAllCertificatesSSLSocketFactory.java = 73 linhas
+
+Path = C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\log
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\log\LoginEvent.java = 264 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\log\UpdateEvent.java = 391 linhas
+
+Path = C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\Activity.java = 105 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\ActivityGroup.java = 74 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\ActivityGroupStatus.java = 30 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\ActivityScore.java = 38 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\ActivitySubmission.java = 206 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\ActivitySubmissionDetailReport.java = 80 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\ActivitySubmissionFooterReport.java = 70 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\ActivitySubmissionItem.java = 48 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\ActivitySubmissionReport.java = 82 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\ActivityUnit.java = 66 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\ActivityValidationReport.java = 61 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\AppConfig.java = 223 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\Attendance.java = 97 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\AttendanceReport.java = 56 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\BugReport.java = 173 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\CalendarReport.java = 71 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\Campus.java = 74 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\Certificate.java = 74 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\City.java = 45 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\Company.java = 73 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\Country.java = 34 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\Credential.java = 33 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\Deadline.java = 100 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\Department.java = 82 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\Document.java = 145 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\EmailConfig.java = 78 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\EmailMessage.java = 205 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\EmailMessageEntry.java = 32 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\EvaluationItem.java = 123 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\FinalDocument.java = 181 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\FinalSubmission.java = 73 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\Internship.java = 222 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\InternshipByCompany.java = 38 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\InternshipEvaluationItem.java = 72 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\InternshipFinalDocument.java = 89 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\InternshipJury.java = 186 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\InternshipJuryAppraiser.java = 87 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\InternshipJuryAppraiserScore.java = 46 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\InternshipJuryFormReport.java = 154 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\InternshipJuryStudent.java = 38 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\InternshipMissingDocumentsReport.java = 114 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\InternshipReport.java = 98 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\Jury.java = 244 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\JuryAppraiser.java = 87 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\JuryAppraiserRequest.java = 54 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\JuryAppraiserScore.java = 46 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\JuryBySemester.java = 48 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\JuryFormAppraiserDetailReport.java = 70 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\JuryFormAppraiserReport.java = 105 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\JuryFormAppraiserScoreReport.java = 62 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\JuryFormReport.java = 121 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\JuryGrade.java = 66 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\JuryRequest.java = 162 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\JuryStudent.java = 38 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\JuryStudentReport.java = 95 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\LibraryCoverReport.java = 48 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\LibraryReport.java = 70 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\Message.java = 73 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\Module.java = 59 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\Project.java = 128 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\Proposal.java = 178 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\ProposalAppraiser.java = 116 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\Semester.java = 75 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\SigacConfig.java = 47 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\SigesConfig.java = 96 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\SigetConfig.java = 277 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\State.java = 49 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\StatementReport.java = 172 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\StudentActivityStatusReport.java = 126 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\SupervisorChange.java = 164 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\SupervisorFeedbackReport.java = 46 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\TermOfApprovalReport.java = 95 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\ThemeSuggestion.java = 86 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\Thesis.java = 128 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\Tutored.java = 108 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\TutoredBySupervisor.java = 101 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\User.java = 241 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\UserDepartment.java = 97 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\model\UserInfo.java = 148 linhas
+
+Path = C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\report
+
+Path = C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\service
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\service\ActivityGroupService.java = 39 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\service\ActivityService.java = 40 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\service\ActivitySubmissionService.java = 86 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\service\ApplicationService.java = 34 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\service\AttendanceService.java = 63 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\service\Authentication.java = 84 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\service\CompanyService.java = 39 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\service\FinalDocumentService.java = 75 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\service\InternshipJuryService.java = 39 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\service\InternshipService.java = 64 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\service\JuryService.java = 39 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\service\LoginService.java = 94 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\service\ProjectService.java = 52 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\service\ProposalService.java = 165 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\service\Secure.java = 12 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\service\SigacService.java = 35 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\service\SigesService.java = 35 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\service\SigetService.java = 35 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\service\ThesisService.java = 52 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\service\UserService.java = 223 linhas
+
+Path = C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\util
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\util\DateUtils.java = 243 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\util\EmailUtils.java = 168 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\util\ExtensionUtils.java = 47 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\util\ReportUtils.java = 242 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\util\StringUtils.java = 36 linhas
+
+Path = C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\ActivityGroupStatusChartView.java = 89 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\ActivityGroupView.java = 146 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\ActivityHighScoreChartView.java = 77 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\ActivitySubmissionView.java = 342 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\ActivityUnitView.java = 84 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\ActivityValidationReportView.java = 61 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\ActivityView.java = 152 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\AttendanceReportView.java = 50 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\AttendanceView.java = 283 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\AuthenticateView.java = 99 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\BasicView.java = 170 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\BugReportView.java = 84 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\CampusView.java = 85 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\CertificateView.java = 59 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\ChartView.java = 140 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\CityView.java = 85 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\CompanySupervisorView.java = 110 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\CompanyView.java = 84 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\CountryView.java = 81 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\DeadlineView.java = 108 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\DepartmentView.java = 95 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\DocumentView.java = 265 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\EmailMessageView.java = 132 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\Error403View.java = 42 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\Error404View.java = 42 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\EvaluationItemView.java = 184 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\EventCalendarView.java = 310 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\EventLogView.java = 139 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\ExternalSupervisorView.java = 87 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\FinalDocumentView.java = 209 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\FinalSubmissionView.java = 117 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\InternshipCompanyChartView.java = 180 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\InternshipEvaluationItemView.java = 166 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\InternshipFinalDocumentView.java = 124 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\InternshipJuryGradesReportView.java = 48 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\InternshipJuryParticipantsReportView.java = 47 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\InternshipJuryView.java = 498 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\InternshipLibraryView.java = 113 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\InternshipMissingDocumentsReportView.java = 95 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\InternshipView.java = 467 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\JuryGradesReportView.java = 53 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\JuryParticipantsReportView.java = 43 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\JuryRequestView.java = 203 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\JurySemesterChartView.java = 117 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\JuryView.java = 566 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\LibraryView.java = 145 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\ListView.java = 358 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\LoginLogView.java = 111 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\LoginView.java = 297 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\MainView.java = 133 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\MessageView.java = 231 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\MobileView.java = 115 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\PasswordView.java = 235 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\PDFView.java = 49 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\ProjectView.java = 378 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\ProposalFeedbackReportView.java = 36 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\ProposalFeedbackStudentView.java = 119 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\ProposalFeedbackView.java = 192 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\ProposalView.java = 255 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\ReportView.java = 75 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\SemesterView.java = 104 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\StateView.java = 85 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\StudentActivityStatusReportView.java = 45 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\StudentView.java = 107 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\SupervisorChangeView.java = 116 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\SupervisorView.java = 138 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\SystemInfoView.java = 204 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\ThemeSuggestionView.java = 114 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\ThesisView.java = 380 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\TutoredSupervisorChartView.java = 121 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\TutoredView.java = 393 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\view\UserView.java = 161 linhas
+
+Path = C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\widgetset
+
+Path = C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\AboutWindow.java = 64 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\BasicWindow.java = 46 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\CalendarEventWindow.java = 103 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\CommentWindow.java = 21 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\DownloadFeedbackWindow.java = 177 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\DownloadInternshipFeedbackWindow.java = 178 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\DownloadProposalFeedbackWindow.java = 145 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\EditActivityGroupWindow.java = 79 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\EditActivitySubmissionWindow.java = 462 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\EditActivityUnitWindow.java = 78 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\EditActivityWindow.java = 167 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\EditAppConfigWindow.java = 91 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\EditAttendanceWindow.java = 132 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\EditBugReportWindow.java = 192 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\EditCampusWindow.java = 146 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\EditCityWindow.java = 90 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\EditCompanySupervisorWindow.java = 102 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\EditCompanyWindow.java = 148 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\EditCountryWindow.java = 63 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\EditDeadlineWindow.java = 152 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\EditDepartmentWindow.java = 154 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\EditDocumentWindow.java = 101 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\EditEmailConfigWindow.java = 121 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\EditEmailMessageWindow.java = 80 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\EditEvaluationItemWindow.java = 144 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\EditExternalSupervisorWindow.java = 128 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\EditFinalDocumentWindow.java = 312 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\EditInternshipEvaluationItemWindow.java = 133 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\EditInternshipFinalDocumentWindow.java = 235 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\EditInternshipJuryAppraiserFeedbackWindow.java = 148 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\EditInternshipJuryAppraiserScoreWindow.java = 156 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\EditInternshipJuryAppraiserWindow.java = 97 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\EditInternshipJuryParticipantWindow.java = 44 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\EditInternshipJuryWindow.java = 574 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\EditInternshipWindow.java = 812 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\EditJuryAppraiserFeedbackWindow.java = 153 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\EditJuryAppraiserScoreWindow.java = 156 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\EditJuryAppraiserWindow.java = 189 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\EditJuryParticipantWindow.java = 44 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\EditJuryRequestWindow.java = 470 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\EditJuryWindow.java = 575 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\EditPasswordWindow.java = 62 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\EditProfessorProfileWindow.java = 212 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\EditProfileWindow.java = 148 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\EditProjectWindow.java = 309 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\EditProposalAppraiserWindow.java = 190 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\EditProposalWindow.java = 469 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\EditSemesterWindow.java = 95 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\EditSigacWindow.java = 63 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\EditSigesWindow.java = 133 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\EditSigetWindow.java = 242 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\EditStateWindow.java = 80 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\EditStudentProfileWindow.java = 210 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\EditStudentWindow.java = 91 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\EditSupervisorAgreementWindow.java = 123 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\EditSupervisorChangeWindow.java = 267 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\EditSupervisorIndicationWindow.java = 112 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\EditThemeSuggestionWindow.java = 166 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\EditThesisWindow.java = 314 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\EditTutoredWindow.java = 474 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\EditUserDepartmentWindow.java = 156 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\EditUserProfileWindow.java = 180 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\EditUserWindow.java = 423 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\EditWindow.java = 98 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\EventLogWindow.java = 76 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\InternshipUploadFinalReportWindow.java = 80 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\JuryGradesWindow.java = 126 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\ProfessorScheculeWindow.java = 179 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\RegisterProfessorWindow.java = 66 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\SupervisorAreaWindow.java = 33 linhas
+	 C:\Users\roger\IdeaProjects\siacoes\src\main\java\br\edu\utfpr\dv\siacoes\window\TestEmailSendWindow.java = 59 linhas
+
+Path = C:\Users\roger\IdeaProjects\siacoes\src\main\webapp
+
+Path = C:\Users\roger\IdeaProjects\siacoes\src\main\webapp\VAADIN
+
+Path = C:\Users\roger\IdeaProjects\siacoes\src\main\webapp\VAADIN\themes
+
+Path = C:\Users\roger\IdeaProjects\siacoes\src\main\webapp\VAADIN\themes\default
+
+Path = C:\Users\roger\IdeaProjects\siacoes\src\main\webapp\VAADIN\themes\default\images
+
+Path = C:\Users\roger\IdeaProjects\siacoes\src\main\webapp\VAADIN\themes\facebook
+
+Path = C:\Users\roger\IdeaProjects\siacoes\src\main\webapp\VAADIN\themes\facebook\images
+
+Path = C:\Users\roger\IdeaProjects\siacoes\src\main\webapp\VAADIN\themes\flat
+
+Path = C:\Users\roger\IdeaProjects\siacoes\src\main\webapp\VAADIN\themes\flat\images
+
+Path = C:\Users\roger\IdeaProjects\siacoes\src\main\webapp\VAADIN\themes\light
+
+Path = C:\Users\roger\IdeaProjects\siacoes\src\main\webapp\VAADIN\themes\light\images
+
+Path = C:\Users\roger\IdeaProjects\siacoes\src\main\webapp\VAADIN\themes\metro
+
+Path = C:\Users\roger\IdeaProjects\siacoes\src\main\webapp\VAADIN\themes\metro\images
+
+Path = C:\Users\roger\IdeaProjects\siacoes\src\main\webapp\VAADIN\themes\pink
+
+Path = C:\Users\roger\IdeaProjects\siacoes\src\main\webapp\VAADIN\themes\pink\images
+
+Path = C:\Users\roger\IdeaProjects\siacoes\src\main\webapp\WEB-INF
+
+Path = C:\Users\roger\IdeaProjects\siacoes\target
+
+Path = C:\Users\roger\IdeaProjects\siacoes\target\classes
+
+Path = C:\Users\roger\IdeaProjects\siacoes\target\classes\br
+
+Path = C:\Users\roger\IdeaProjects\siacoes\target\classes\br\edu
+
+Path = C:\Users\roger\IdeaProjects\siacoes\target\classes\br\edu\utfpr
+
+Path = C:\Users\roger\IdeaProjects\siacoes\target\classes\br\edu\utfpr\dv
+
+Path = C:\Users\roger\IdeaProjects\siacoes\target\classes\br\edu\utfpr\dv\siacoes
+
+Path = C:\Users\roger\IdeaProjects\siacoes\target\classes\br\edu\utfpr\dv\siacoes\images
+
+Path = C:\Users\roger\IdeaProjects\siacoes\target\classes\br\edu\utfpr\dv\siacoes\report
+
+Path = C:\Users\roger\IdeaProjects\siacoes\target\classes\br\edu\utfpr\dv\siacoes\widgetset
+
+Path = C:\Users\roger\IdeaProjects\siacoes\WebContent
+
+Path = C:\Users\roger\IdeaProjects\siacoes\WebContent\META-INF
+
+Path = C:\Users\roger\IdeaProjects\siacoes\WebContent\VAADIN
+
+Path = C:\Users\roger\IdeaProjects\siacoes\WebContent\VAADIN\themes
+
+Path = C:\Users\roger\IdeaProjects\siacoes\WebContent\VAADIN\themes\siacoes
+
+
+
+=============================================
+Sub-pastas do projeto = 196 pastas
+Classes do projeto = 375 classes
+Linhas de codigo do projeto = 64382 linhas
