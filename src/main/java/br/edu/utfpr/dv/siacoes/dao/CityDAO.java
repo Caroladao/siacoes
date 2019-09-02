@@ -11,9 +11,9 @@ import java.util.List;
 import br.edu.utfpr.dv.siacoes.log.UpdateEvent;
 import br.edu.utfpr.dv.siacoes.model.City;
 
-public class CityDAO {
+public class CityDAO implements IDaoFactory<City> {
 	
-	public List<City> listAll() throws SQLException{
+	public List<City> listAll() throws SQLException {
 		Connection conn = null;
 		Statement stmt = null;
 		ResultSet rs = null;

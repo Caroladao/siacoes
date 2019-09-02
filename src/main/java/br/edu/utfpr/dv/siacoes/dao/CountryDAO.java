@@ -11,9 +11,9 @@ import java.util.List;
 import br.edu.utfpr.dv.siacoes.log.UpdateEvent;
 import br.edu.utfpr.dv.siacoes.model.Country;
 
-public class CountryDAO {
+public class CountryDAO implements IDaoFactory<Country> {
 	
-	public List<Country> listAll() throws SQLException{
+	public List<Country> listAll() throws SQLException {
 		Connection conn = null;
 		Statement stmt = null;
 		ResultSet rs = null;

@@ -11,9 +11,9 @@ import java.util.List;
 import br.edu.utfpr.dv.siacoes.log.UpdateEvent;
 import br.edu.utfpr.dv.siacoes.model.State;
 
-public class StateDAO {
+public class StateDAO implements IDaoFactory<State> {
 	
-	public List<State> listAll() throws SQLException{
+	public List<State> listAll() throws SQLException {
 		Connection conn = null;
 		Statement stmt = null;
 		ResultSet rs = null;
