@@ -151,6 +151,7 @@ public class CityDAO implements IDaoFactory<City> {
 		}
 	}
 	
+	@Override
 	private City loadObject(ResultSet rs) throws SQLException{
 		City city = new City();
 		

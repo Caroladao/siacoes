@@ -151,6 +151,7 @@ public class StateDAO implements IDaoFactory<State> {
 		}
 	}
 	
+	@Override
 	private State loadObject(ResultSet rs) throws SQLException{
 		State state = new State();
 		
